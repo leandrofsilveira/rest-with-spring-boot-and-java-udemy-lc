@@ -1,4 +1,4 @@
-package br.com.lfrancisco.secao05;
+package br.com.lfrancisco.section05;
 
 public class Greeting {
 

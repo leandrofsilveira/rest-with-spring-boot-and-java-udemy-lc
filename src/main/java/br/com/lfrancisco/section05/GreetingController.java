@@ -1,4 +1,4 @@
-package br.com.lfrancisco.secao05;
+package br.com.lfrancisco.section05;
 
 import java.util.concurrent.atomic.AtomicLong;
 
